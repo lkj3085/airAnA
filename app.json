@@ -3,9 +3,7 @@
     "name": "airAnA",
     "slug": "airAnA",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   },
   "name": "airAnA"
 }
